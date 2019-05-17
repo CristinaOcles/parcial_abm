@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1558051108 source:d:\oclescristina\oclescristina1h\instrumento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"instrumento.h"
+
+1558051328 d:\oclescristina\oclescristina1h\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558048950 source:d:\oclescristina\oclescristina1h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"musico.h"
+
+1558048479 source:d:\oclescristina\oclescristina1h\musico.c
+	<stdio.h>
+	<stdlib.h>
+	"musico.h"
+
+1558050458 d:\oclescristina\oclescristina1h\musico.h
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"instrumento.h"
+	"orquesta.h"
+
+1558045306 source:d:\oclescristina\oclescristina1h\orquesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1558044900 source:d:\oclescristina\oclescristina1h\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1558051328 d:\oclescristina\oclescristina1h\instrumento.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558051457 d:\oclescristina\oclescristina1h\orquesta.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
